@@ -1,0 +1,13 @@
+﻿<Window x:Class="ATP2016Project.View.AboutWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="About" Height="720" Width="630" WindowStartupLocation="CenterScreen">
+    <Grid HorizontalAlignment="Center">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="133*"/>
+            <RowDefinition Height="5*"/>
+        </Grid.RowDefinitions>
+        <Image Source="/view/images/about.png" Height="630" VerticalAlignment="Top" Grid.Row="0"/>
+        <Button Content="Got IT" Background="#FFBFFBF6" Click="Button_Click" Margin="198,600,242,5"/>
+    </Grid>
+</Window>

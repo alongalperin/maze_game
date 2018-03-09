@@ -1,0 +1,250 @@
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project\ATP2016Project\bin\Debug\ATP2016Project.exe.config
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project\ATP2016Project\obj\Debug\ATP2016Project.csprojResolveAssemblyReference.cache
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project\ATP2016Project\obj\Debug\View\MainWindow.baml
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project\ATP2016Project\obj\Debug\View\MainWindow.g.cs
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project\ATP2016Project\obj\Debug\App.g.cs
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project\ATP2016Project\obj\Debug\ATP2016Project_MarkupCompile.cache
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project\ATP2016Project\obj\Debug\ATP2016Project.g.resources
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project\ATP2016Project\obj\Debug\ATP2016Project.Properties.Resources.resources
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project\ATP2016Project\obj\Debug\ATP2016Project.csproj.GenerateResource.Cache
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project\ATP2016Project\bin\Debug\ATP2016Project.exe
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project\ATP2016Project\bin\Debug\ATP2016Project.pdb
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project\ATP2016Project\bin\Debug\atp2016.dll
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project\ATP2016Project\obj\Debug\ATP2016Project.exe
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project\ATP2016Project\obj\Debug\ATP2016Project.pdb
+C:\Users\ALGALPE\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project\ATP2016Project\bin\Debug\ATP2016Project.exe.config
+C:\Users\ALGALPE\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project\ATP2016Project\obj\Debug\ATP2016Project.exe
+C:\Users\ALGALPE\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project\ATP2016Project\obj\Debug\ATP2016Project.pdb
+C:\Users\ALGALPE\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project\ATP2016Project\obj\Debug\ATP2016Project.csprojResolveAssemblyReference.cache
+C:\Users\ALGALPE\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project\ATP2016Project\obj\Debug\View\MainWindow.baml
+C:\Users\ALGALPE\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project\ATP2016Project\obj\Debug\View\MainWindow.g.cs
+C:\Users\ALGALPE\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project\ATP2016Project\obj\Debug\App.g.cs
+C:\Users\ALGALPE\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project\ATP2016Project\obj\Debug\ATP2016Project_MarkupCompile.cache
+C:\Users\ALGALPE\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project\ATP2016Project\obj\Debug\ATP2016Project.g.resources
+C:\Users\ALGALPE\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project\ATP2016Project\obj\Debug\ATP2016Project.Properties.Resources.resources
+C:\Users\ALGALPE\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project\ATP2016Project\obj\Debug\ATP2016Project.csproj.GenerateResource.Cache
+C:\Users\ALGALPE\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project\ATP2016Project\bin\Debug\ATP2016Project.exe
+C:\Users\ALGALPE\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project\ATP2016Project\bin\Debug\ATP2016Project.pdb
+C:\Users\ALGALPE\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project\ATP2016Project\bin\Debug\atp2016.dll
+C:\Users\ALGALPE\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project\ATP2016Project\obj\Debug\View\Controllers\MazeDisplayer.baml
+C:\Users\ALGALPE\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project\ATP2016Project\obj\Debug\View\Controllers\MazeDisplayer.g.cs
+C:\Users\ALGALPE\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project\ATP2016Project\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ALGALPE\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project\ATP2016Project\obj\Debug\ATP2016Project_MarkupCompile.lref
+C:\Users\ALGALPE\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project\ATP2016Project\obj\Debug\View\GenerateMazeWindow.baml
+C:\Users\ALGALPE\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project\ATP2016Project\obj\Debug\View\GenerateMazeWindow.g.cs
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project\ATP2016Project\obj\Debug\View\Controllers\MazeDisplayer.baml
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project\ATP2016Project\obj\Debug\View\GenerateMazeWindow.baml
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project\ATP2016Project\obj\Debug\View\Controllers\MazeDisplayer.g.cs
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project\ATP2016Project\obj\Debug\View\GenerateMazeWindow.g.cs
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project\ATP2016Project\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project\ATP2016Project\obj\Debug\ATP2016Project_MarkupCompile.lref
+D:\alon\ATP2016Project\ATP2016Project\bin\Debug\ATP2016Project.exe.config
+D:\alon\ATP2016Project\ATP2016Project\obj\Debug\ATP2016Project.exe
+D:\alon\ATP2016Project\ATP2016Project\obj\Debug\ATP2016Project.pdb
+D:\alon\ATP2016Project\ATP2016Project\obj\Debug\ATP2016Project.csprojResolveAssemblyReference.cache
+D:\alon\ATP2016Project\ATP2016Project\obj\Debug\View\Controllers\MazeDisplayer.baml
+D:\alon\ATP2016Project\ATP2016Project\obj\Debug\View\GenerateMazeWindow.baml
+D:\alon\ATP2016Project\ATP2016Project\obj\Debug\View\Controllers\MazeDisplayer.g.cs
+D:\alon\ATP2016Project\ATP2016Project\obj\Debug\View\GenerateMazeWindow.g.cs
+D:\alon\ATP2016Project\ATP2016Project\obj\Debug\View\MainWindow.g.cs
+D:\alon\ATP2016Project\ATP2016Project\obj\Debug\App.g.cs
+D:\alon\ATP2016Project\ATP2016Project\obj\Debug\ATP2016Project_MarkupCompile.cache
+D:\alon\ATP2016Project\ATP2016Project\obj\Debug\ATP2016Project_MarkupCompile.lref
+D:\alon\ATP2016Project\ATP2016Project\bin\Debug\ATP2016Project.exe
+D:\alon\ATP2016Project\ATP2016Project\bin\Debug\ATP2016Project.pdb
+D:\alon\ATP2016Project\ATP2016Project\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\alon\ATP2016Project\ATP2016Project\obj\Debug\View\MainWindow.baml
+D:\alon\ATP2016Project\ATP2016Project\obj\Debug\ATP2016Project.g.resources
+D:\alon\ATP2016Project\ATP2016Project\obj\Debug\ATP2016Project.Properties.Resources.resources
+D:\alon\ATP2016Project\ATP2016Project\obj\Debug\ATP2016Project.csproj.GenerateResource.Cache
+D:\alon\ATP2016Project\ATP2016Project\bin\Debug\WpfAnimatedGif.dll
+D:\alon\ATP2016Project\ATP2016Project\bin\Debug\WpfAnimatedGif.xml
+D:\alon\ATP2016Project\ATP2016Project\obj\Debug\View\LoadMazeWindow.baml
+D:\alon\ATP2016Project\ATP2016Project\obj\Debug\View\LoadMazeWindow.g.cs
+D:\alon\ATP2016Project\ATP2016Project\obj\Debug\View\DisplayMaze.baml
+D:\alon\ATP2016Project\ATP2016Project\obj\Debug\View\DisplayMaze.g.cs
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\alon12_6\ATP2016Project\ATP2016Project\bin\Debug\ATP2016Project.exe.config
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\alon12_6\ATP2016Project\ATP2016Project\obj\Debug\ATP2016Project.exe
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\alon12_6\ATP2016Project\ATP2016Project\obj\Debug\ATP2016Project.pdb
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\alon12_6\ATP2016Project\ATP2016Project\bin\Debug\ATP2016Project.exe
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\alon12_6\ATP2016Project\ATP2016Project\bin\Debug\ATP2016Project.pdb
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\alon12_6\ATP2016Project\ATP2016Project\bin\Debug\WpfAnimatedGif.dll
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\alon12_6\ATP2016Project\ATP2016Project\bin\Debug\WpfAnimatedGif.xml
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\alon12_6\ATP2016Project\ATP2016Project\obj\Debug\View\Controllers\MazeDisplayer.baml
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\alon12_6\ATP2016Project\ATP2016Project\obj\Debug\View\DisplayMaze.baml
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\alon12_6\ATP2016Project\ATP2016Project\obj\Debug\View\GenerateMazeWindow.baml
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\alon12_6\ATP2016Project\ATP2016Project\obj\Debug\View\LoadMazeWindow.baml
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\alon12_6\ATP2016Project\ATP2016Project\obj\Debug\View\Controllers\MazeDisplayer.g.cs
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\alon12_6\ATP2016Project\ATP2016Project\obj\Debug\View\DisplayMaze.g.cs
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\alon12_6\ATP2016Project\ATP2016Project\obj\Debug\View\GenerateMazeWindow.g.cs
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\alon12_6\ATP2016Project\ATP2016Project\obj\Debug\View\LoadMazeWindow.g.cs
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\alon12_6\ATP2016Project\ATP2016Project\obj\Debug\View\MainWindow.g.cs
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\alon12_6\ATP2016Project\ATP2016Project\obj\Debug\App.g.cs
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\alon12_6\ATP2016Project\ATP2016Project\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\alon12_6\ATP2016Project\ATP2016Project\obj\Debug\ATP2016Project_MarkupCompile.cache
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\alon12_6\ATP2016Project\ATP2016Project\obj\Debug\ATP2016Project_MarkupCompile.lref
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\alon12_6\ATP2016Project\ATP2016Project\obj\Debug\View\MainWindow.baml
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\alon12_6\ATP2016Project\ATP2016Project\obj\Debug\ATP2016Project.g.resources
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\alon12_6\ATP2016Project\ATP2016Project\obj\Debug\ATP2016Project.Properties.Resources.resources
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\alon12_6\ATP2016Project\ATP2016Project\obj\Debug\ATP2016Project.csproj.GenerateResource.Cache
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\alon12_6\ATP2016Project\ATP2016Project\obj\Debug\View\Controllers\Cell.baml
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\alon12_6\ATP2016Project\ATP2016Project\obj\Debug\View\Controllers\Cell.g.cs
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\alon12_6\ATP2016Project\ATP2016Project\obj\Debug\ATP2016Project.csprojResolveAssemblyReference.cache
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\alon12_6\ATP2016Project\ATP2016Project\obj\Debug\View\GoalReached.baml
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\alon12_6\ATP2016Project\ATP2016Project\obj\Debug\View\GoalReached.g.cs
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\alon12_6\ATP2016Project\ATP2016Project\obj\Debug\View\Controllers\DetailsPanel.baml
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\alon12_6\ATP2016Project\ATP2016Project\obj\Debug\View\Controllers\DetailsPanel.g.cs
+D:\alon\ATP2016Project\ATP2016Project\obj\Debug\View\Controllers\Cell.baml
+D:\alon\ATP2016Project\ATP2016Project\obj\Debug\View\Controllers\DetailsPanel.baml
+D:\alon\ATP2016Project\ATP2016Project\obj\Debug\View\GoalReached.baml
+D:\alon\ATP2016Project\ATP2016Project\obj\Debug\View\Controllers\Cell.g.cs
+D:\alon\ATP2016Project\ATP2016Project\obj\Debug\View\Controllers\DetailsPanel.g.cs
+D:\alon\ATP2016Project\ATP2016Project\obj\Debug\View\GoalReached.g.cs
+D:\alon\ATP2016Project\ATP2016Project\obj\Debug\View\HelpWindow.baml
+D:\alon\ATP2016Project\ATP2016Project\obj\Debug\View\AboutWindow.baml
+D:\alon\ATP2016Project\ATP2016Project\obj\Debug\View\HelpWindow.g.cs
+D:\alon\ATP2016Project\ATP2016Project\obj\Debug\View\AboutWindow.g.cs
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\18_6\ATP2016Project\ATP2016Project\bin\Debug\ATP2016Project.exe.config
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\18_6\ATP2016Project\ATP2016Project\obj\Debug\ATP2016Project.exe
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\18_6\ATP2016Project\ATP2016Project\obj\Debug\ATP2016Project.pdb
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\18_6\ATP2016Project\ATP2016Project\bin\Debug\ATP2016Project.exe
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\18_6\ATP2016Project\ATP2016Project\bin\Debug\ATP2016Project.pdb
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\18_6\ATP2016Project\ATP2016Project\bin\Debug\WpfAnimatedGif.dll
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\18_6\ATP2016Project\ATP2016Project\bin\Debug\WpfAnimatedGif.xml
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\18_6\ATP2016Project\ATP2016Project\obj\Debug\View\Controllers\Cell.baml
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\18_6\ATP2016Project\ATP2016Project\obj\Debug\View\Controllers\DetailsPanel.baml
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\18_6\ATP2016Project\ATP2016Project\obj\Debug\View\DisplayMaze.baml
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\18_6\ATP2016Project\ATP2016Project\obj\Debug\View\GenerateMazeWindow.baml
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\18_6\ATP2016Project\ATP2016Project\obj\Debug\View\GoalReached.baml
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\18_6\ATP2016Project\ATP2016Project\obj\Debug\View\HelpWindow.baml
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\18_6\ATP2016Project\ATP2016Project\obj\Debug\View\LoadMazeWindow.baml
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\18_6\ATP2016Project\ATP2016Project\obj\Debug\View\AboutWindow.baml
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\18_6\ATP2016Project\ATP2016Project\obj\Debug\View\Controllers\Cell.g.cs
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\18_6\ATP2016Project\ATP2016Project\obj\Debug\View\Controllers\DetailsPanel.g.cs
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\18_6\ATP2016Project\ATP2016Project\obj\Debug\View\Controllers\MazeDisplayer.g.cs
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\18_6\ATP2016Project\ATP2016Project\obj\Debug\View\DisplayMaze.g.cs
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\18_6\ATP2016Project\ATP2016Project\obj\Debug\View\GenerateMazeWindow.g.cs
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\18_6\ATP2016Project\ATP2016Project\obj\Debug\View\GoalReached.g.cs
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\18_6\ATP2016Project\ATP2016Project\obj\Debug\View\HelpWindow.g.cs
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\18_6\ATP2016Project\ATP2016Project\obj\Debug\View\LoadMazeWindow.g.cs
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\18_6\ATP2016Project\ATP2016Project\obj\Debug\View\MainWindow.g.cs
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\18_6\ATP2016Project\ATP2016Project\obj\Debug\View\AboutWindow.g.cs
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\18_6\ATP2016Project\ATP2016Project\obj\Debug\App.g.cs
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\18_6\ATP2016Project\ATP2016Project\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\18_6\ATP2016Project\ATP2016Project\obj\Debug\ATP2016Project_MarkupCompile.cache
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\18_6\ATP2016Project\ATP2016Project\obj\Debug\ATP2016Project_MarkupCompile.lref
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\18_6\ATP2016Project\ATP2016Project\obj\Debug\View\Controllers\MazeDisplayer.baml
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\18_6\ATP2016Project\ATP2016Project\obj\Debug\View\MainWindow.baml
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\18_6\ATP2016Project\ATP2016Project\obj\Debug\ATP2016Project.g.resources
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\18_6\ATP2016Project\ATP2016Project\obj\Debug\ATP2016Project.Properties.Resources.resources
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\18_6\ATP2016Project\ATP2016Project\obj\Debug\ATP2016Project.csproj.GenerateResource.Cache
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\18_6\ATP2016Project\ATP2016Project\bin\Debug\atp2016.dll
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\18_6\ATP2016Project\ATP2016Project\obj\Debug\ATP2016Project.csprojResolveAssemblyReference.cache
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 before threads\302731286_305272494\ATP2016Project\bin\Debug\ATP2016Project.exe.config
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 before threads\302731286_305272494\ATP2016Project\obj\Debug\ATP2016Project.exe
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 before threads\302731286_305272494\ATP2016Project\obj\Debug\ATP2016Project.pdb
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 before threads\302731286_305272494\ATP2016Project\bin\Debug\ATP2016Project.exe
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 before threads\302731286_305272494\ATP2016Project\bin\Debug\ATP2016Project.pdb
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 before threads\302731286_305272494\ATP2016Project\bin\Debug\atp2016.dll
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 before threads\302731286_305272494\ATP2016Project\bin\Debug\WpfAnimatedGif.dll
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 before threads\302731286_305272494\ATP2016Project\bin\Debug\WpfAnimatedGif.xml
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 before threads\302731286_305272494\ATP2016Project\obj\Debug\ATP2016Project.csprojResolveAssemblyReference.cache
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 before threads\302731286_305272494\ATP2016Project\obj\Debug\View\Controllers\Cell.baml
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 before threads\302731286_305272494\ATP2016Project\obj\Debug\View\Controllers\DetailsPanel.baml
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 before threads\302731286_305272494\ATP2016Project\obj\Debug\View\DisplayMaze.baml
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 before threads\302731286_305272494\ATP2016Project\obj\Debug\View\GenerateMazeWindow.baml
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 before threads\302731286_305272494\ATP2016Project\obj\Debug\View\GoalReached.baml
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 before threads\302731286_305272494\ATP2016Project\obj\Debug\View\HelpWindow.baml
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 before threads\302731286_305272494\ATP2016Project\obj\Debug\View\LoadMazeWindow.baml
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 before threads\302731286_305272494\ATP2016Project\obj\Debug\View\AboutWindow.baml
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 before threads\302731286_305272494\ATP2016Project\obj\Debug\View\Controllers\Cell.g.cs
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 before threads\302731286_305272494\ATP2016Project\obj\Debug\View\Controllers\DetailsPanel.g.cs
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 before threads\302731286_305272494\ATP2016Project\obj\Debug\View\Controllers\MazeDisplayer.g.cs
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 before threads\302731286_305272494\ATP2016Project\obj\Debug\View\DisplayMaze.g.cs
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 before threads\302731286_305272494\ATP2016Project\obj\Debug\View\GenerateMazeWindow.g.cs
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 before threads\302731286_305272494\ATP2016Project\obj\Debug\View\GoalReached.g.cs
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 before threads\302731286_305272494\ATP2016Project\obj\Debug\View\HelpWindow.g.cs
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 before threads\302731286_305272494\ATP2016Project\obj\Debug\View\LoadMazeWindow.g.cs
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 before threads\302731286_305272494\ATP2016Project\obj\Debug\View\MainWindow.g.cs
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 before threads\302731286_305272494\ATP2016Project\obj\Debug\View\AboutWindow.g.cs
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 before threads\302731286_305272494\ATP2016Project\obj\Debug\App.g.cs
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 before threads\302731286_305272494\ATP2016Project\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 before threads\302731286_305272494\ATP2016Project\obj\Debug\ATP2016Project_MarkupCompile.cache
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 before threads\302731286_305272494\ATP2016Project\obj\Debug\ATP2016Project_MarkupCompile.lref
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 before threads\302731286_305272494\ATP2016Project\obj\Debug\View\Controllers\MazeDisplayer.baml
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 before threads\302731286_305272494\ATP2016Project\obj\Debug\View\MainWindow.baml
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 before threads\302731286_305272494\ATP2016Project\obj\Debug\ATP2016Project.g.resources
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 before threads\302731286_305272494\ATP2016Project\obj\Debug\ATP2016Project.Properties.Resources.resources
+C:\Users\USER\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 before threads\302731286_305272494\ATP2016Project\obj\Debug\ATP2016Project.csproj.GenerateResource.Cache
+C:\Users\algalpe\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 FINAL\302731286_305272494\ATP2016Project\bin\Debug\ATP2016Project.exe.config
+C:\Users\algalpe\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 FINAL\302731286_305272494\ATP2016Project\bin\Debug\ATP2016Project.exe
+C:\Users\algalpe\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 FINAL\302731286_305272494\ATP2016Project\bin\Debug\ATP2016Project.pdb
+C:\Users\algalpe\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 FINAL\302731286_305272494\ATP2016Project\bin\Debug\atp2016.dll
+C:\Users\algalpe\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 FINAL\302731286_305272494\ATP2016Project\bin\Debug\WpfAnimatedGif.dll
+C:\Users\algalpe\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 FINAL\302731286_305272494\ATP2016Project\bin\Debug\WpfAnimatedGif.xml
+C:\Users\algalpe\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 FINAL\302731286_305272494\ATP2016Project\obj\Debug\ATP2016Project.csprojResolveAssemblyReference.cache
+C:\Users\algalpe\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 FINAL\302731286_305272494\ATP2016Project\obj\Debug\View\Controllers\Cell.baml
+C:\Users\algalpe\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 FINAL\302731286_305272494\ATP2016Project\obj\Debug\View\Controllers\DetailsPanel.baml
+C:\Users\algalpe\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 FINAL\302731286_305272494\ATP2016Project\obj\Debug\View\DisplayMaze.baml
+C:\Users\algalpe\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 FINAL\302731286_305272494\ATP2016Project\obj\Debug\View\GenerateMazeWindow.baml
+C:\Users\algalpe\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 FINAL\302731286_305272494\ATP2016Project\obj\Debug\View\GoalReached.baml
+C:\Users\algalpe\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 FINAL\302731286_305272494\ATP2016Project\obj\Debug\View\HelpWindow.baml
+C:\Users\algalpe\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 FINAL\302731286_305272494\ATP2016Project\obj\Debug\View\LoadMazeWindow.baml
+C:\Users\algalpe\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 FINAL\302731286_305272494\ATP2016Project\obj\Debug\View\AboutWindow.baml
+C:\Users\algalpe\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 FINAL\302731286_305272494\ATP2016Project\obj\Debug\View\Controllers\Cell.g.cs
+C:\Users\algalpe\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 FINAL\302731286_305272494\ATP2016Project\obj\Debug\View\Controllers\DetailsPanel.g.cs
+C:\Users\algalpe\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 FINAL\302731286_305272494\ATP2016Project\obj\Debug\View\Controllers\MazeDisplayer.g.cs
+C:\Users\algalpe\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 FINAL\302731286_305272494\ATP2016Project\obj\Debug\View\DisplayMaze.g.cs
+C:\Users\algalpe\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 FINAL\302731286_305272494\ATP2016Project\obj\Debug\View\GenerateMazeWindow.g.cs
+C:\Users\algalpe\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 FINAL\302731286_305272494\ATP2016Project\obj\Debug\View\GoalReached.g.cs
+C:\Users\algalpe\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 FINAL\302731286_305272494\ATP2016Project\obj\Debug\View\HelpWindow.g.cs
+C:\Users\algalpe\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 FINAL\302731286_305272494\ATP2016Project\obj\Debug\View\LoadMazeWindow.g.cs
+C:\Users\algalpe\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 FINAL\302731286_305272494\ATP2016Project\obj\Debug\View\MainWindow.g.cs
+C:\Users\algalpe\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 FINAL\302731286_305272494\ATP2016Project\obj\Debug\View\AboutWindow.g.cs
+C:\Users\algalpe\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 FINAL\302731286_305272494\ATP2016Project\obj\Debug\App.g.cs
+C:\Users\algalpe\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 FINAL\302731286_305272494\ATP2016Project\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\algalpe\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 FINAL\302731286_305272494\ATP2016Project\obj\Debug\ATP2016Project_MarkupCompile.cache
+C:\Users\algalpe\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 FINAL\302731286_305272494\ATP2016Project\obj\Debug\ATP2016Project_MarkupCompile.lref
+C:\Users\algalpe\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 FINAL\302731286_305272494\ATP2016Project\obj\Debug\View\Controllers\MazeDisplayer.baml
+C:\Users\algalpe\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 FINAL\302731286_305272494\ATP2016Project\obj\Debug\View\MainWindow.baml
+C:\Users\algalpe\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 FINAL\302731286_305272494\ATP2016Project\obj\Debug\ATP2016Project.g.resources
+C:\Users\algalpe\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 FINAL\302731286_305272494\ATP2016Project\obj\Debug\ATP2016Project.Properties.Resources.resources
+C:\Users\algalpe\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 FINAL\302731286_305272494\ATP2016Project\obj\Debug\ATP2016Project.csproj.GenerateResource.Cache
+C:\Users\algalpe\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 FINAL\302731286_305272494\ATP2016Project\obj\Debug\ATP2016Project.exe
+C:\Users\algalpe\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 FINAL\302731286_305272494\ATP2016Project\obj\Debug\ATP2016Project.pdb
+C:\Users\alon\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 FINAL\302731286_305272494\ATP2016Project\bin\Debug\ATP2016Project.exe.config
+C:\Users\alon\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 FINAL\302731286_305272494\ATP2016Project\bin\Debug\ATP2016Project.exe
+C:\Users\alon\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 FINAL\302731286_305272494\ATP2016Project\bin\Debug\ATP2016Project.pdb
+C:\Users\alon\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 FINAL\302731286_305272494\ATP2016Project\bin\Debug\atp2016.dll
+C:\Users\alon\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 FINAL\302731286_305272494\ATP2016Project\bin\Debug\WpfAnimatedGif.dll
+C:\Users\alon\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 FINAL\302731286_305272494\ATP2016Project\bin\Debug\WpfAnimatedGif.xml
+C:\Users\alon\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 FINAL\302731286_305272494\ATP2016Project\obj\Debug\ATP2016Project.csprojResolveAssemblyReference.cache
+C:\Users\alon\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 FINAL\302731286_305272494\ATP2016Project\obj\Debug\View\Controllers\Cell.baml
+C:\Users\alon\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 FINAL\302731286_305272494\ATP2016Project\obj\Debug\View\Controllers\DetailsPanel.baml
+C:\Users\alon\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 FINAL\302731286_305272494\ATP2016Project\obj\Debug\View\DisplayMaze.baml
+C:\Users\alon\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 FINAL\302731286_305272494\ATP2016Project\obj\Debug\View\GenerateMazeWindow.baml
+C:\Users\alon\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 FINAL\302731286_305272494\ATP2016Project\obj\Debug\View\GoalReached.baml
+C:\Users\alon\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 FINAL\302731286_305272494\ATP2016Project\obj\Debug\View\HelpWindow.baml
+C:\Users\alon\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 FINAL\302731286_305272494\ATP2016Project\obj\Debug\View\LoadMazeWindow.baml
+C:\Users\alon\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 FINAL\302731286_305272494\ATP2016Project\obj\Debug\View\AboutWindow.baml
+C:\Users\alon\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 FINAL\302731286_305272494\ATP2016Project\obj\Debug\View\Controllers\Cell.g.cs
+C:\Users\alon\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 FINAL\302731286_305272494\ATP2016Project\obj\Debug\View\Controllers\DetailsPanel.g.cs
+C:\Users\alon\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 FINAL\302731286_305272494\ATP2016Project\obj\Debug\View\Controllers\MazeDisplayer.g.cs
+C:\Users\alon\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 FINAL\302731286_305272494\ATP2016Project\obj\Debug\View\DisplayMaze.g.cs
+C:\Users\alon\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 FINAL\302731286_305272494\ATP2016Project\obj\Debug\View\GenerateMazeWindow.g.cs
+C:\Users\alon\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 FINAL\302731286_305272494\ATP2016Project\obj\Debug\View\GoalReached.g.cs
+C:\Users\alon\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 FINAL\302731286_305272494\ATP2016Project\obj\Debug\View\HelpWindow.g.cs
+C:\Users\alon\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 FINAL\302731286_305272494\ATP2016Project\obj\Debug\View\LoadMazeWindow.g.cs
+C:\Users\alon\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 FINAL\302731286_305272494\ATP2016Project\obj\Debug\View\MainWindow.g.cs
+C:\Users\alon\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 FINAL\302731286_305272494\ATP2016Project\obj\Debug\View\AboutWindow.g.cs
+C:\Users\alon\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 FINAL\302731286_305272494\ATP2016Project\obj\Debug\App.g.cs
+C:\Users\alon\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 FINAL\302731286_305272494\ATP2016Project\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\alon\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 FINAL\302731286_305272494\ATP2016Project\obj\Debug\ATP2016Project_MarkupCompile.cache
+C:\Users\alon\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 FINAL\302731286_305272494\ATP2016Project\obj\Debug\ATP2016Project_MarkupCompile.lref
+C:\Users\alon\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 FINAL\302731286_305272494\ATP2016Project\obj\Debug\View\Controllers\MazeDisplayer.baml
+C:\Users\alon\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 FINAL\302731286_305272494\ATP2016Project\obj\Debug\View\MainWindow.baml
+C:\Users\alon\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 FINAL\302731286_305272494\ATP2016Project\obj\Debug\ATP2016Project.g.resources
+C:\Users\alon\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 FINAL\302731286_305272494\ATP2016Project\obj\Debug\ATP2016Project.Properties.Resources.resources
+C:\Users\alon\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 FINAL\302731286_305272494\ATP2016Project\obj\Debug\ATP2016Project.csproj.GenerateResource.Cache
+C:\Users\alon\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 FINAL\302731286_305272494\ATP2016Project\obj\Debug\ATP2016Project.exe
+C:\Users\alon\Dropbox\סמסטר ו\תכנות ויזואלי\ATP2016Project - ass4 FINAL\302731286_305272494\ATP2016Project\obj\Debug\ATP2016Project.pdb
