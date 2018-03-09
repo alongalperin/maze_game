@@ -23,11 +23,10 @@ The project is built with MPV Model–view–presenter architectural pattern, an
   
 Enjoy :)  
   
-<img src="https://github.com/alongalperin/maze_game/blob/master/pictures/main.png" width="500px" height="500px">
-![main](https://github.com/alongalperin/maze_game/blob/master/pictures/main.png | width=48)  
+<img src="https://github.com/alongalperin/maze_game/blob/master/pictures/main.png" width="540px" height="700px">
   
 Solution display:  
-![main](https://github.com/alongalperin/maze_game/blob/master/pictures/solve.png)  
-  
+<img src="https://github.com/alongalperin/maze_game/blob/master/pictures/solve.png" width="540px" height="700px">
+    
 Got to Goal:  
-![main](https://github.com/alongalperin/maze_game/blob/master/pictures/solve.png)  
+<img src="https://github.com/alongalperin/maze_game/blob/master/pictures/complete.png" width="540px" height="700px">
