@@ -3,7 +3,7 @@
   
 The game is built using WPF C#.  
 This is a maze game where the maze can have number of floors (in the pictures we will have only 1 floor, for simplisity).  
-The maze is represented using graph, where each node is a place where the character can be in the maze and the vertices are the direction which the character went.  
+The maze is represented using linked list of floors, where each node is 2D int array of maze representation.
   
 __The game features:__  
 Generate maze:  
@@ -16,5 +16,11 @@ The copression is implement by us as part of the project. We serializing the maz
 Display Maze:  
 We can load saved maze, display it and start playing.  
   
-Solve maze:  
-Solving the maze 
+Solve maze and Display Solution:  
+Solving the maze using DFS algorithm. Each node is a state, that means a place where the character can go, and the vertices are the direction where the character is moving.  
+  
+The project is built with MPV Model–view–presenter architectural pattern, and using Bridge and Adapter pattern.
+  
+Enjoy :)  
+  
+  
