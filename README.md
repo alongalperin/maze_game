@@ -1,5 +1,5 @@
 # Maze Game
-## Project for course Advance Topics in Programming in Ben Gurioun University
+## Project for course Advance Topics in Programming in Ben Gurion University
   
 The game is built using WPF C#.  
 This is a maze game where the maze can have number of floors (in the pictures we will have only 1 floor, for simplisity).  
